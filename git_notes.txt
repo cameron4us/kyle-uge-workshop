@@ -1,0 +1,29 @@
+Git notes
+
+init -- initialize a new git repository
+status -- gives status of current repository and suggested actions
+add -- stage a file to the current reposiory
+commit -- commits the file to the current repository
+log -- show the commit information (similar to history in UNIX)
+branch -- make new branch (with argument) or log all branches (no argument)
+checkout -- change git branches
+config -- set configuration values of git (ex: name and e-mail)
+remote -- what remotes are associated with the local repository
+push -- push all code form CURRENT branch to git repository
+
+clean -- everything in current directory is same as previous commit
+dirty -- files have been modified
+
+keep commits to 10-20 lines -- commit frequently -- should use one short comment
+
+local repository -- anything saved on your own machine
+global repository -- anything saved on a server
+
+.git directory stores all information about a repository
+
+each commit save:
+  all changes made
+  identity of who made the changes
+  date and time of changes
+  brief message
+  unique identifier for set of changes
