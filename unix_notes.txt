@@ -1,5 +1,9 @@
 #notes and stuff
 
+making changes to file to practice pushing to a git repository
+# here is more changes in a comment
+# another comment and stuff
+
 history | less
 history
 mv Foundations1/ foundations_1
