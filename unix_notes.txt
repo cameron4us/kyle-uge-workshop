@@ -1,3 +1,5 @@
+#notes and stuff
+
 history | less
 history
 mv Foundations1/ foundations_1
@@ -33,23 +35,23 @@ curl -fsSL http://git.io/7UHtNA | sh
 git config --global user.email 'kyle.winckler@gmail.com'
 git config --global user.name 'Kyle Winckler'
 git --version
-echo $PATH 
-echo $EDITOR 
+echo $PATH
+echo $EDITOR
 subl ~/.config/fish/config.fish
-fish_update_completions 
+fish_update_completions
 brew install fish
 brew doctor
 brew d
-brew update 
+brew update
 subl /etc/paths
 brew prune
-brew doctor 
+brew doctor
 sudo rm -rf /Library/Frameworks/Python.framework/
 rm -rf /Library/Frameworks/Python.framework/
 brew update
 touch "Problem 1"
 rm 1
-rm Problem 
+rm Problem
 touch Problem 1
 cd Project\ Euler/
 mkdir "Project Euler"
@@ -79,9 +81,9 @@ cd javascript-and-jquery-feb-2015/
 open c07
 open folder c07
 open javascript-and-jquery-feb-2015/
-subl 
+subl
 cd Projects/Foundations1/
-pwd 
+pwd
 curl -fsSL http://git.io/QxUaQQ | sh
 curl -fsSL http://git.io/7uHtNA | sh
 brew info fish
@@ -158,8 +160,8 @@ ls -t | less
 ls -rtl
 ls -rt
 ls -t
-ls moving_around.txt 
-open moving_around.txt 
+ls moving_around.txt
+open moving_around.txt
 history > moving_around.txt
 history | less
 history
@@ -195,23 +197,23 @@ curl -fsSL http://git.io/7UHtNA | sh
 git config --global user.email 'kyle.winckler@gmail.com'
 git config --global user.name 'Kyle Winckler'
 git --version
-echo $PATH 
-echo $EDITOR 
+echo $PATH
+echo $EDITOR
 subl ~/.config/fish/config.fish
-fish_update_completions 
+fish_update_completions
 brew install fish
 brew doctor
 brew d
-brew update 
+brew update
 subl /etc/paths
 brew prune
-brew doctor 
+brew doctor
 sudo rm -rf /Library/Frameworks/Python.framework/
 rm -rf /Library/Frameworks/Python.framework/
 brew update
 touch "Problem 1"
 rm 1
-rm Problem 
+rm Problem
 touch Problem 1
 cd Project\ Euler/
 mkdir "Project Euler"
@@ -241,9 +243,9 @@ cd javascript-and-jquery-feb-2015/
 open c07
 open folder c07
 open javascript-and-jquery-feb-2015/
-subl 
+subl
 cd Projects/Foundations1/
-pwd 
+pwd
 curl -fsSL http://git.io/QxUaQQ | sh
 curl -fsSL http://git.io/7uHtNA | sh
 brew info fish
