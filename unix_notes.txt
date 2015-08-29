@@ -1,0 +1,318 @@
+history | less
+history
+mv Foundations1/ foundations_1
+ls
+mv Project\ Euler/ project_euler
+mv Python\ Programs/ python_programs
+cd Projects/
+pwd
+cd ..
+cd /
+subl .
+ls /
+cd
+cd ../Desktop/
+~
+cd ../..
+cd Python\ Programs/
+cd Foundations1/
+cd projects
+ls -l
+ls -i
+ls -S
+man ls
+ls -a
+ls -r
+ls -lt
+ls -t
+cd downloads
+cd ~/Downloads/
+git config --global user.email
+git config --global user.name
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'kyle.winckler@gmail.com'
+git config --global user.name 'Kyle Winckler'
+git --version
+echo $PATH 
+echo $EDITOR 
+subl ~/.config/fish/config.fish
+fish_update_completions 
+brew install fish
+brew doctor
+brew d
+brew update 
+subl /etc/paths
+brew prune
+brew doctor 
+sudo rm -rf /Library/Frameworks/Python.framework/
+rm -rf /Library/Frameworks/Python.framework/
+brew update
+touch "Problem 1"
+rm 1
+rm Problem 
+touch Problem 1
+cd Project\ Euler/
+mkdir "Project Euler"
+rmdir Euler/
+rmdir Project/
+rm Project/
+cd project Euler/
+mkdir Project Euler
+cd top_pot_final/
+mv jquery-2.1.4.js top_pot_final/
+mv top_pot8.html top_pot_final/
+mv top_pot.css top_pot_final/
+mv top_pot.css top_pot_final
+mv top_pot7.js top_pot_final
+mkdir top_pot_final
+cp top_pot7.html top_pot8.html
+cp top_pot7.htm. top_pot8.html
+cp top_pot6.html top_pot7.html
+ls -la
+cd donut_shop/
+git clone https://github.com/bbice/donut_shop.git
+cp top_pot5.html top_pot6.html
+cd p
+cp top_pot4.html top_pot5.html
+cd c07
+cd javascript-and-jquery-feb-2015/
+open c07
+open folder c07
+open javascript-and-jquery-feb-2015/
+subl 
+cd Projects/Foundations1/
+pwd 
+curl -fsSL http://git.io/QxUaQQ | sh
+curl -fsSL http://git.io/7uHtNA | sh
+brew info fish
+brew in
+curl -fsSL http://git.io/beJs | ruby
+cd /users/kylewinckler/Documents/
+cd /users/kylewinckler/
+ls ../../
+ls ../
+ls /users/kylewinckler/Documents
+ls ./Documents
+ls ~/Documents
+~/Documents
+ls /Users/kylewinckler/Documents
+echo $SHELL
+echo
+open mario_kart_8
+open skyward.jpg
+cd wallpapers
+cd documents
+cd pictures
+open utilities
+open /game center
+open Game Center
+open gamecenter
+open game center
+open calculator.app
+open calculator
+start Calculator
+start calculator.app
+start calculator
+cd /applications
+open FaceTime.app
+open Chrome.app
+open Google Chrome
+open Google Chrome.app
+cd /Applications
+Open App Store.app
+onen App Store
+open AppStore.app
+open Store.app
+open App Store.app
+open Chess.app
+open /Chess
+open Chess
+cd App Store
+open Store
+open App Store
+cd Applications/
+cd applications/
+cd Applications
+cd Chrome Apps
+cd Wallpapers
+cd Documents
+open iTunes
+cd music
+cd applications
+cd /DOS Games
+cd Dos Games/
+cd DOS Games
+cd dos games
+cd..
+..cd
+cd python/
+cd python
+cd files
+man man
+man touch
+cd programs
+cd pythonprograms
+cd /python programs
+cd python programs
+ls -t | less
+ls -rtl
+ls -rt
+ls -t
+ls moving_around.txt 
+open moving_around.txt 
+history > moving_around.txt
+history | less
+history
+mv Foundations1/ foundations_1
+ls
+mv Project\ Euler/ project_euler
+mv Python\ Programs/ python_programs
+cd Projects/
+pwd
+cd ..
+cd /
+subl .
+ls /
+cd
+cd ../Desktop/
+~
+cd ../..
+cd Python\ Programs/
+cd Foundations1/
+cd projects
+ls -l
+ls -i
+ls -S
+man ls
+ls -a
+ls -r
+ls -lt
+cd downloads
+cd ~/Downloads/
+git config --global user.email
+git config --global user.name
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'kyle.winckler@gmail.com'
+git config --global user.name 'Kyle Winckler'
+git --version
+echo $PATH 
+echo $EDITOR 
+subl ~/.config/fish/config.fish
+fish_update_completions 
+brew install fish
+brew doctor
+brew d
+brew update 
+subl /etc/paths
+brew prune
+brew doctor 
+sudo rm -rf /Library/Frameworks/Python.framework/
+rm -rf /Library/Frameworks/Python.framework/
+brew update
+touch "Problem 1"
+rm 1
+rm Problem 
+touch Problem 1
+cd Project\ Euler/
+mkdir "Project Euler"
+rmdir Euler/
+rmdir Project/
+rm Project/
+cd project Euler/
+mkdir Project Euler
+cd top_pot_final/
+mv jquery-2.1.4.js top_pot_final/
+mv top_pot8.html top_pot_final/
+mv top_pot.css top_pot_final/
+mv top_pot.css top_pot_final
+mv top_pot7.js top_pot_final
+mkdir top_pot_final
+cp top_pot7.html top_pot8.html
+cp top_pot7.htm. top_pot8.html
+cp top_pot6.html top_pot7.html
+ls -la
+cd donut_shop/
+git clone https://github.com/bbice/donut_shop.git
+cp top_pot5.html top_pot6.html
+cd p
+cp top_pot4.html top_pot5.html
+cd c07
+cd javascript-and-jquery-feb-2015/
+open c07
+open folder c07
+open javascript-and-jquery-feb-2015/
+subl 
+cd Projects/Foundations1/
+pwd 
+curl -fsSL http://git.io/QxUaQQ | sh
+curl -fsSL http://git.io/7uHtNA | sh
+brew info fish
+brew in
+curl -fsSL http://git.io/beJs | ruby
+cd /users/kylewinckler/Documents/
+cd /users/kylewinckler/
+ls ../../
+ls ../
+ls /users/kylewinckler/Documents
+ls ./Documents
+ls ~/Documents
+~/Documents
+ls /Users/kylewinckler/Documents
+echo $SHELL
+echo
+open mario_kart_8
+open skyward.jpg
+cd wallpapers
+cd documents
+cd pictures
+open utilities
+open /game center
+open Game Center
+open gamecenter
+open game center
+open calculator.app
+open calculator
+start Calculator
+start calculator.app
+start calculator
+cd /applications
+open FaceTime.app
+open Chrome.app
+open Google Chrome
+open Google Chrome.app
+cd /Applications
+Open App Store.app
+onen App Store
+open AppStore.app
+open Store.app
+open App Store.app
+open Chess.app
+open /Chess
+open Chess
+cd App Store
+open Store
+open App Store
+cd Applications/
+cd applications/
+cd Applications
+cd Chrome Apps
+cd Wallpapers
+cd Documents
+open iTunes
+cd music
+cd applications
+cd /DOS Games
+cd Dos Games/
+cd DOS Games
+cd dos games
+cd..
+..cd
+cd python/
+cd python
+cd files
+man man
+man touch
+cd programs
+cd pythonprograms
+cd /python programs
+cd python programs
